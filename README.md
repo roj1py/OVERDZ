@@ -1,6 +1,6 @@
 # OVER DZ Project
 
-<p align="center">
+<p>
   <img src="https://github.com/roj1py/OVERDZ/blob/main/assets/images/Picsart_25-08-29_18-57-06-529.jpg" alt="OVER DZ Logo" width="200"/>
 </p>
 **Status:** Beta 🚧 | **Author:** CyberSec Student (Roj) 🇩🇿 
