@@ -32,15 +32,18 @@ cd over-dz-project
 ```
 
 # Install dependencies (if Python)
+```
 pip install -r requirements.txt
+```
 🚀 Usage
-
+```
 # Run server
 python C2serverV2.py
-
+```
+```
 # Run client/payload
 python client.py
-
+```
 🛡️ License
 
 This project is licensed under the MIT License – free to use, modify, and share under the same terms.
