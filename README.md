@@ -1,8 +1,5 @@
 # OVER DZ Project
 
-<p>
-  <img src="https://github.com/roj1py/OVERDZ/blob/main/assets/images/Picsart_25-08-29_18-57-06-529.jpg" alt="OVER DZ Logo" width="200"/>
-</p>
 **Status:** Beta 🚧 | **Author:** CyberSec Student (Roj) 🇩🇿 
 
 OVER DZ Project is the **first multi-function C2 server and payload framework created in Algeria**.  
@@ -59,5 +56,8 @@ A project that represents both personal growth and the rising tech scene in DZ.
 
 
 ---
+<p align="center">
+  <img src="https://github.com/roj1py/OVERDZ/blob/main/assets/images/C2Logo2.png" alt="OVER DZ Logo" width="200"/>
+</p>
 
 
