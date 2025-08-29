@@ -42,7 +42,7 @@ python C2serverV2.py
 ```
 ```
 # Run client/payload
-python client.py
+python C2clientV1.py
 ```
 🛡️ License
 
