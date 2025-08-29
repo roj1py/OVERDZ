@@ -1,7 +1,7 @@
 # OVER DZ Project
 
 <p align="center">
-  <img src="https://imgur.com/a/J17oGeM" alt="OVER DZ Logo" width="200"/>
+  <img src="[https://imgur.com/a/J17oGeM](https://imgur.com/gallery/c2logo-J17oGeM)" alt="OVER DZ Logo" width="200"/>
 </p>
 **Status:** Beta 🚧 | **Author:** CyberSec Student (Roj) 🇩🇿 
 
