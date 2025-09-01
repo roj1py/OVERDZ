@@ -27,8 +27,8 @@ It’s designed for research, learning, and cybersecurity practice.
 ## 📦 Installation
 ```bash
 # Clone the repository
-git clone https://github.com/roj1py/over-dz-project.git
-cd over-dz-project
+git clone https://github.com/roj1py/OVERDZ.git
+cd OVERDZ
 ```
 
 # Install dependencies (if Python)
